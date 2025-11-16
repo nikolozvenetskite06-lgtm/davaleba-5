@@ -9,3 +9,63 @@ a {
 	font-weight: 700;
 	margin: 0px 40px;
 }
+.date {
+	width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    font-size: 24px;
+    font-weight: 400;
+    color: #84FF81;
+    margin: 40px;
+    box-sizing: border-box;
+    padding: 12px;
+}
+
+h2 {
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	padding: 0px 0px 0px 38px;
+}
+.ppp {
+	font-size: 20px;
+	
+	padding: 20px 40px 20px 40px;
+}
+.images {
+	padding: 0px 0px 0px 38px;
+}
+.child {
+	display: flex;
+
+
+}
+.kull {
+	padding: 0px 0px 0px 38px;
+}
+#foto {
+	padding: 0px 0px 0px 35px;
+}
+p {
+	font-family: "BPG Square", sans-serif;
+}
+#youtube {
+	width: 80px;
+	height: 50px;
+}
+#facebook {
+	width: 50px;
+	height: 50px;
+}
+#line {
+	width: 2px;
+	height: 48px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin: 0px 41px;
+}
+header {
+	padding: 54px 52px;
+}
+#pipi {
+	padding: 20px 0px 20px 0px;
+}
+
